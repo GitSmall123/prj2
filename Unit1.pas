@@ -35,9 +35,6 @@ type
     Label10: TLabel;
     Button6: TButton;
     Button2: TButton;
-    Button7: TButton;
-    Button8: TButton;
-    Button9: TButton;
     procedure Button1Click(Sender: TObject);
     procedure FormShow(Sender: TObject);
     procedure Button2Click(Sender: TObject);

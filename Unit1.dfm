@@ -295,28 +295,4 @@ object Form1: TForm1
     Visible = False
     OnClick = Button2Click
   end
-  object Button7: TButton
-    Left = 440
-    Top = 40
-    Width = 75
-    Height = 25
-    Caption = 'Button7'
-    TabOrder = 8
-  end
-  object Button8: TButton
-    Left = 472
-    Top = 88
-    Width = 75
-    Height = 25
-    Caption = 'Button8'
-    TabOrder = 9
-  end
-  object Button9: TButton
-    Left = 592
-    Top = 56
-    Width = 75
-    Height = 25
-    Caption = 'Button9'
-    TabOrder = 10
-  end
 end
