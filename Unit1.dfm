@@ -311,4 +311,12 @@ object Form1: TForm1
     Caption = 'Button8'
     TabOrder = 9
   end
+  object Button9: TButton
+    Left = 592
+    Top = 56
+    Width = 75
+    Height = 25
+    Caption = 'Button9'
+    TabOrder = 10
+  end
 end
