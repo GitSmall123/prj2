@@ -130,7 +130,7 @@ procedure TForm1.Button1Click(Sender: TObject);
 
 procedure TForm1.FormShow(Sender: TObject);
 begin
-
+DateTimePicker1.Date:=Now;
 
 //DBLookupComboBox1.KeyValue := DBLookupComboBox1.ListSource.DataSet.FieldByName(DBLookupComboBox1.KeyField).Value;
 
